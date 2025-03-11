@@ -1,0 +1,45 @@
+{
+  "callouts": {
+    "custom": [
+      "location",
+      "atmosphere"
+    ],
+    "settings": {
+      "location": [
+        {
+          "changes": {
+            "icon": "lucide-map-pin"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "light"
+          },
+          "changes": {
+            "color": "130, 69, 28"
+          }
+        },
+        {
+          "condition": {
+            "colorScheme": "dark"
+          },
+          "changes": {
+            "color": "187, 137, 104"
+          }
+        }
+      ],
+      "atmosphere": [
+        {
+          "changes": {
+            "color": "92, 132, 178"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

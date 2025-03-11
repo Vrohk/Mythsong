@@ -1,0 +1,146 @@
+
+You are gifted with machinery, and can imbue it with magic to transform or enhance Equipment.
+
+Spec Features
+- 
+Spec Abilities
+- Rank 1 - 
+	- Alter Weapon: Spelltech - Create or Transmute a Magical Weapon (or Set of 2 1h Weapons)...
+		- Fist Weapon
+		- Hammer
+		- Hand Cannon
+		- Battlehammer
+		- Shield
+		- Blunderbuss
+		- Rifle
+		- Maul
+		- Heavy Gun
+	- Alter Armor: Spelltech - Create or Transmute a Magical set of Heavy Armor. This Armor does not have a Strength Requirement and while it is Equipped, Spelltech Weapons have no Attribute Requirements.
+		- Armor - Magic Barrier
+		- Boots - Levitate
+		- Gloves - 
+		- Helm
+	- Alter Toolkit: Spelltech - ...
+		- Crafting (Any) - 
+		- Medicine - Cure Wounds
+		- Alchemy - Conjure Bomb
+		- Thieving - Knock
+		- Engineering - 
+		- 
+- Rank 2 - Choose 1
+	- Spelltech Transform - Interact with your Altered Equipment, Turret, or Construct to Transform it into a different Type.
+		- Hammer - Hand Cannon
+		- Battlehammer - Rifle - Blunderbuss
+		- Maul - Heavy Gun
+		- Fist - Shield - Focus
+	- Runic Capacitor
+		- Capacitor - Stores Energy by accumulating negative charge and insulating between the charges
+		- Resistor - Reduce flow, Adjust signal, divide voltage,
+		- Inductor - Magnetic Storage coil
+		- Transistor - Controls current
+	- 
+	- Or Choose 1 of the other Specs
+- Mastery - You Learn the other 2 Specs...
+
+Source
+- Engineering Training
+- Arcane Magic Training
+- Arcana Training
+
+**Subspecs**
+- Automation - Clockwork
+- Scrap - Junk
+- Construction - Forge
+- Medicine - Modern
+- Electricity - 
+- Runic - Circuitry and symbols
+### **Abilities**
+#### Cantrips
+- Spelltech - 1 Free
+	- Magical Tinkering - 5e 2024
+	- Sparks - Basic Spell - 
+- Automation
+	- Spark of Automation - Baby Animate Object
+	- 
+- Tinkering
+	- Reverse Engineer - Increase Yield from Salvaging based on WP Spent
+	- Flak - Basic Spell
+- Construction
+	- Mending - 5e
+	- Smelt? - Basic Spell - 
+- Medicine
+	- Read Vitals - Reveal Current and Max HP of a Target
+	- Malpractice - Basic Spell
+- Electricity
+	- 
+	- Jolt - Basic Spell - 
+#### 1st Level
+- Spelltech - 1 Free
+	- Imbue Weapon: Spelltech - ...This can be Cast as a Free Action when Transforming your Weapon (Melee) or Reloading it (Ranged). If used while Reloading, your Reload does not Spend Available Ammo.
+		- Shocking
+		- Burning
+		- Explosive
+		- Thundering
+	- Spelltech Trigger - Smite that can be used with Ranged Attacks. Consume Weapon Imbue Stacks to Grant Empower.
+- Automation
+	- Deploy/Conjure Clockwork Construct
+	- 
+	- X - Override: Machine?
+	- 
+- Tinkering
+	- Imbue Device
+		- Healing Flask
+		- Trap
+		- Bomb
+		- Toolkit
+			- Healing
+			- Thieving
+			- Crafting (Any)
+	- Craft/Conjure Trap - 
+		- Caltrops
+		- Snare
+		- Embers
+		- Acid
+		- Poison
+	- Grease - 
+	- X - Craft/Conjure Toolkit - 
+- Construction
+	- Build/Conjure Battleforge Turret
+	- Demolition - Mark - Fire, Impact, Force, and Sonic Empower
+	- Repair - Heal - Grant Shield or Restore HP to your Construct, Fortifications, or Yourself if you have Spelltech Armor Equipped
+- Medicine
+	- Craft/Conjure: Healing Flask - Heal - 
+	- Transfusion - Heal, Channeled - 
+	- Cure Wounds - Heal
+- Electricity
+	- Shocking Blast - Drain? 1 Reaction, Advantage against Constructs or Heavily Armored Targets
+	- Static Discharge - 
+	- Electrocution - Witchbolt?
+#### 2nd Level
+- 1 Free
+	- Spelltech Overload - AOE Based on Current Weapom Imbue. Target AOE for Ranged, Cone for Melee
+	- 
+	- Build/Conjure Grounding Ward - Decoy - Redirects the next Spell or source of Lightning Damage from any Target within 3 Spaces.
+- Automation
+	- Backup Protocol - Command -
+	- Deploy/Conjure Support Drone Construct - Summon
+	- 
+- Tinkering
+	- Craft/Conjure Device - Combine basic Devices... 
+		- Razor Net
+		- Rocket Hook
+		- ...
+	- 
+	- 
+- Construction
+	- Build/Conjure Cover - Create a Small Wall that provides Cover...
+	- 
+	- Reinforce - Buff
+- Medicine
+	- Biotics - Bond
+	- Triage - Heal 
+	- 
+- Electricity
+	- Charging Current - Restore a Charge to a Mechanical Device?
+	- Magnetic Binding - Target cannot Willingly move further than 3 Spaces from their Current Position unless they Succeed a Fort Save.
+	- Power Link? - Channeled Line Target AOE - Heal a Target Construct, or Deal Lightning Damage to a Target and any Targets between the 2 of you. This can be Cast and Channeled while Channeling Electrocution.

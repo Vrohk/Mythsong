@@ -1,0 +1,6 @@
+- 1st Level Abilities
+	- Craft/Conjure Experimental Elixir - Create an Elixir that can be Consumed to Grant a Random Buff
+	- Conjure Bomb? - Create a Conjured Flask that can be Thrown, Drank, or Coat a Weapon
+		- Acid
+		- Poison
+		- Oil

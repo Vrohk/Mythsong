@@ -1,0 +1,109 @@
+Gifted mechanic
+
+Half Elf
+- Appearance
+	- Slender, Tallish? mostly human with less pronounced Elven features. Dull blue elven Eyes, short dark hair, medium pale human skin tone.
+	- Male - 
+- Social
+	- Family
+		- Mixed Ancestry, sympathies for human parent.
+		- [[Ilaryon Tanoril]] - Dad - mechanic/clockmaker, helped mentor, but was cold and dispassionate. Looks at you as kind of a bastard, killed by a gun when you're young. 
+		- [[Daelyth Tanoril]] - Closer with her and because of this sympathize with non-elves in the Capital. 
+			- You keep in touch, though carefully and sparingly using the birds of Amy's Aerie. But you haven't gotten a response in a long time
+	- Friends
+		- [[Izumei Noriath]] - childhood friend... Probably the only one
+		- [[Natsu Ko Ryonelde]] - City Guard you met in childhood
+	- Mentors
+		- [[Dr. Ogbert Slate]] - Master of the Spelltech Guild? A brilliant scientist courting Empress
+	- Rivals / Colleagues
+		- [[Dr. Itzel Kualli]] - Jungle Cat Vanaqi - Was adopted very young by Slate, and lived most of her life in the Imperium. Gifted medical doctor, idealistic, kind of
+	- Enemies
+		- [[Chamber]] - 1/3 Elf, 1/3 Human, 1/3 Weapon - Acquisition dept for Guild of Armaments? - Wants to be arms manufacturer for Imperium. Tempts you to join, might resort to less-than-savory means if needed. Very hot, very horny for you, arm is a gun.
+- Personality
+	- Practical, but a little cold - You like to solve problems, you don't like when people act like things are problems when they're not.
+	- Has a soft spot for broken or discarded things
+	- Socially awkward, but thoughtful in your own way - ie: if someone is cold, you will tinker a heat source
+- [[Attributes]]
+	- Int / Dex > Con > Wis > Str > Cha
+- Hobbies
+	- Exploration, Scavenging, climbing, tinkering
+- Childhood
+	- Dealt with adversity from being half-elven, but also had a warmer-than-normal family life for an Elf.
+	- Recruited into a spelltech program after being visited by a friend of Father.
+- Adulthood
+	- Excelled in the Spelltech program, specializing in weaponsmithing. Lived in Dawnhaven and quite liked the Imperium. 
+- Successes
+	- Accomplished Mechanic, accepted into a very exclusive spelltech research program
+- Struggles
+	- Death of Father and abandoned Mother, adversity as a half-elf, difficulty socializing
+- Lifestyle
+	- Modest in early life, rigid structure and well taken care of in adolescence. Finds the finer things in life tedious and frivolous, but may enjoy them despite yourself.
+- [[Heritage]]
+	- [[Meiyun]] / [[Imperium (Heritage)]]
+- [[Background]]
+	- [[Artisan]]
+- [[Skills]]
+	- Ancestry - Choose 1
+		- Acrobatics?
+		- Stealth?
+		- Arcana?
+		- Perception?
+	- Background - Choose 1
+		- Engineering
+		- Investigation
+		- 
+	- Choose 2 + Int (Min 0)
+- [[Skill Ability]] - 
+- What was your [[Defining Moment]]?
+	- Dad is killed by a man with a gun! Mentor takes you in
+- [[Specialization]]
+	- Spelltech / Artifice
+- [[Awakening]]
+	- How - Working on building a gun, doesn't work until an attempt is made on Mentor's life...
+	- When - Later in life, after moving to Dawnhaven
+	- Who knows? - Mentor, Mentor's Apprentice, maybe spy organizations if they were following?
+- Motivation - What caused you to seek adventure?
+	- Settle a Debt
+	- On the Run
+	- Revenge?
+	- Responsibility
+	- Searching for Someone or Something?
+	- Companionship?
+
+Abilities
+- Precision Attack
+	- Free Action, 1 Charge, Recharge every Round - Alteration - As a Free Action when Hitting with an Attack that was either made with Advantage or made against a Target with an Ally in an Adjacent Space, you can choose to deal a bonus 2d6 Weapon Damage.
+- Engineer Training
+	- Feature: ???
+		- 
+	- Learned Cantrip Ability: Mending
+		- 5e
+	- Learned 1st Level Ability: Featherfall
+		- 5e - Ritual - Can be Imbued into a Cloak
+- Arcane Magic Specialization: Spelltech
+	- Feature: Alter/Craft Spelltech Weapon
+		- Create or Transmute an existing Weapon into a Spelltech Weapon.
+	- Free Spec Cantrip: Magical Tinkering
+		- 5e 2024
+	- Free Spec Ability: Imbue Weapon: Spelltech
+		- 1AP*, 1WP - Imbue - 1min Duration, the next 3 Hits with the Imbued Weapon deal 1d6 Bonus Damage. This can be Cast as a Free Action when Reloading a Spelltech Gun, or Transforming a Gun into a Melee Weapon.
+			- Burning - Apply Burn+1
+			- Thundering - Max Damage against Shields / Structures
+			- Shocking - Destroys a Reaction
+			- Explosive - Splash
+			- Arcane - Half Range, Empower +1
+			- Tech +1 Imbued Attack
+	- Learned 1st Lebel Ability: Spelltech Trigger
+		- Free Action, 1WP* - When landing a Hit with a Spelltech Weapon, deal 2d8 Bonus Damage based on the Last Spell you Cast. If your Spelltech Weapon is Imbued, you can choose to instead spend no WP and deal Bonus Damage based on the Level and Damage Type of the Imbue.
+			- Tech +1 Power
+	- Learned 1st Level Ability: Faerie Fire
+		- 5e - Phosphorescent Bomb - Requires Materials but no longer Requires Concentration
+- Equipment
+	- Dual Wield: Spelltech Revolver
+		- Twin Shot
+			- 1 Charge, 1AP, Recharges on Short Rest - Ranged Dual Weapon Attack - Make a Dual Weapon Attack with no Multi-Attack Penalties against the Same Target, or a +1 Empowered Attack with MAP against Two different Targets.
+	- Offhand: Spelltech Revolver
+		- Point Blank
+			- 2 Charges, 1AP, Recharges on Short Rest - Ranged Weapon Attack - This Attack is Empowered +1 if you are within 2 Spaces of the Target, does not have Disadvantage within Melee Range of its Target. The Target must Succeed a Fort Save or be either Knocked Prone or Pushed 1 Space Away from you, your Choice.
+				- Tech +1 Power
+				- Tech 3: Remove the Save, causing its effects on Hit.

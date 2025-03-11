@@ -1,0 +1,51 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "9. Admin/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": true,
+  "shell_path": "",
+  "user_scripts_folder": "9. Admin/Scripts",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "1. Tools/Reference",
+      "template": "9. Admin/Templates/TEMPLATE - Article.md"
+    },
+    {
+      "folder": "1. Tools",
+      "template": "9. Admin/Templates/TEMPLATE - Article.md"
+    },
+    {
+      "folder": "Locations",
+      "template": "9. Admin/Templates/TEMPLATE - Location.md"
+    },
+    {
+      "folder": "Workshop/Location",
+      "template": "9. Admin/Templates/TEMPLATE - Location.md"
+    },
+    {
+      "folder": "Characters",
+      "template": "9. Admin/Templates/TEMPLATE - Character.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [],
+  "startup_templates": [
+    ""
+  ]
+}

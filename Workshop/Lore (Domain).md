@@ -1,0 +1,1 @@
+Your Power comes from a fervor to seek out and free lost and forgotten knowledge. The Lore of ancient cultures calls to you from lost parchment, dark tombs, and the temples of Deities. Does your Divine Calling urge you to set it free? To lock it away? To preserve it, or use it for your own gains?

@@ -1,0 +1,5 @@
+A small, half-elven woman, mutilated in earlier life by...? Now she is part experimental weapon, part assassin, but also a deeply troubled person in need of love and trust. Behaves kind of like a stray cat, but is mostly loyal to her handler, the Guildmaster of Armaments.
+
+Dark, dark red hair, almost black. She wears it straight and down most of the time so she can hide her golden brown/red human eyes. She clipped her ears, and they are heavily pierced. She wears dark eye make up and seems to cry a lot but that might be an aesthetic choice. Her skin is a pale, pale, cool white that has a very slight opalescence in the right light. Most of her left arm is missing, and has been replaced by clockwork artifice that conceals a powerful cannon. 
+
+Wears tight leather vest and pants with revealing side stitching, a flowy shirt beneath that leaves shoulders exposed, and lacey undergarments that she makes no attempt at hiding. Her demeanor is intense, passionate, but nervous and flighty.

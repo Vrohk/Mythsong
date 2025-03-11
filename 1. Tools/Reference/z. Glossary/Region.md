@@ -1,0 +1,1 @@
+A [[Region]] is a [[Location]] in a [[Continent]], typically defined by its Geography, and comprised of several smaller [[Area]]s.

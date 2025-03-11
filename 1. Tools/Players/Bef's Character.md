@@ -1,0 +1,112 @@
+Arcanomycologst and Bog Witch
+
+Human
+- Appearance
+	- Elderly
+	- Woman
+- Social
+	- Family
+		- Lesser noble house of Dorramere. They control the ??? herb trade? Blight affected the business, desperate measures were required. You took matters into your own hands...
+	- Friends
+		- 
+	- Colleagues
+		- Who grew/harvested/processed the herbs?
+	- Mentors
+		- 
+	- Rivals?
+		- 
+	- Enemies
+		- 
+- Personality
+	- 
+- [[Attributes]]
+	- Wis / Cha > Int > Con > Dex > Str
+- Hobbies
+	- 
+- Childhood
+	- Raised by a lesser noble house in Dorramere.
+- Adulthood
+	- 
+- Successes
+	- 
+- Struggles
+	- 
+- Lifestyle
+- [[Heritage]]
+	- Dorramere
+- [[Background]]
+	- Hermit / Nobility
+- [[Skills]]
+	- Alchemy
+	- Medicine?
+	- Insight?
+	- Persuasion?
+	- Deception?
+- [[Skill Ability]] - 
+- What was your [[Defining Moment]]?
+- [[Specialization]]
+- [[Awakening]]
+	- How
+	- When
+	- Who knows?
+- Motivation - What caused you to seek adventure?
+	- Fame / Glory
+	- Settle a Debt
+	- Heroics
+	- On the Run
+	- In need of Help
+	- Revenge
+	- Higher Calling
+	- Responsibility
+	- Searching for Someone or Something?
+	- Etc...
+
+Abilities
+- Fighting Style - Choose 1
+	- Commander - Summon Companion
+	- [[Focus]]
+		- 1AP, Wis (Min 1) Charges, Recharge Half on Short Rest - Alteration - Alter the Next Spell you Cast, normally by Increasing or Reducing the WP Cost.
+- Role Ability
+	- Inspire - Spend a Charge to Grant an Ally a Bonus d6 on an Attack Roll, Saving Throw, or Skill Check of their choice.
+- Alchemy / Medicine Training?
+	- Learned Cantrip Ability: Poultice
+		- 2AP, Materials* - Craft or Conjure a Healing Item that can be used to Remove a Burn, Maim, or ??? Effect, or Heal for WIS/INT 
+			- Interaction - 
+	- Learned 1st Level Ability: Craft/Conjure Experimental Elixir
+		- 
+- Primal Magic Specialization: Plants
+	- Free Spec Ability: Living Seed
+		- 1AP, 3 Charges, Recharge 1 each Short Rest - Plants a Living Seed in the Space, or Incubates a Seed in the Target Creature, no Save necessary for a Willing target). The Seed's Effects are Altered by the next Ability used on it or the Creature it is Incubating within.
+			- Upgrade to Recharge on Failed Save?
+	- Free Spec Cantrip Spell: Druidcraft
+		- 2AP, Make plants grow? from 5e
+	- Free Learned Level 1 Spell: Viral Spores
+		- Multi-Action, 1WP - Applies Venom on a Failed Fort Save. 
+			- 1AP: Venom +2
+			- 2AP: Venom +4
+			- Planted Living Seed:
+				- Summons a Vile Toadstool which cannot move and Deals 1d6+Cha Poison Damage and Applies Venom +1 to each Enemy within 2 Spaces Each Round on a Failed Reflex Save.
+			- Incubated Living Seed:
+				- (No Save) Deals 1d10+Cha Poison Damage, if the Target is Affected by Venom, this Ability Applies Venom+1 and is Empowered+1...?
+	- Learned Spec Cantrip Spell: Nettles
+		- 2AP, Targets a Space - Deals 1d8+Wis? Poison Damage
+	- Learned 1st Level Spell: Lifebloom
+		- 2AP, 1WP - Heals for 1d4+Wis and Grants HoT+2.
+			- Planted Living Seed:
+				- Spawns Healing Blossoms from Living Seeds, an immobile Summon that Heals an Ally within 2 Spaces for 1d6+Cha each Turn. 
+			- Incubated Living Seed:
+				- Heals the Target for 2d10+Wis.
+			- Tech 2: Spend 1 WP to Grant HoT+4
+	- Learned 1st Level Spell: Harvest
+		- All Enemies with an Active Venom Effect from your Viral Spores or Allies with an Active HoT Effect from your Bloom are Dealt 1d8+Cha Nature Damage or Healing. Plague of Decay: All nearby Targets with an Active Decay Effect take 1d10+Cha Dark Damage, the Decay Effect Ends, and you gain a Charge of Plague of Decay. 
+			- Incubated Living Seed: ...?
+- Equipment
+	- Mainhand: Arcana Quarterstaff
+		- Cantrip Attunement: Decompose
+			- 3 Charges, 2AP - Deals 1d4+Cha Necrotic Damage and Applies Necrosis equal to the Damage Dealt on a Failed Fort Save.
+	- Offhand: Rubbly Gluv - Primal Effigy
+		- 1st Level Attunement: Plague of Decay
+			- Multi Action, 1 Charge - Applies Decay+2 for each AP Spent on a Failed Fort Save.
+				- Living Seed:
+					- If a Target with your Plague of Decay and Living Seed Effects active on them Dies, you can choose to Raise them as a Fungal Zombie.
+		- 1st Level Attunement: 

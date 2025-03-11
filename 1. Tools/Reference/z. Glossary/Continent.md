@@ -1,0 +1,1 @@
+A [[Continent]] is a large landmass [[Location]] on a [[World]], typically surrounded by [[Ocean]], and comprised of one or more [[Region]]s.

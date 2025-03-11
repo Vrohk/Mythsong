@@ -1,0 +1,1 @@
+If there is free will, fate must exist in opposition. To deny fate is to Live, to accept it is to merely exist.

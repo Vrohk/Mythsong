@@ -1,0 +1,710 @@
+{
+  "main": {
+    "id": "2524b2b9b14c1bdd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f647771210d088d",
+        "type": "tabs",
+        "dimension": 47.78761061946902,
+        "children": [
+          {
+            "id": "086adeb3caaba755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9. Admin/Example Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Example Notes"
+            }
+          },
+          {
+            "id": "09920ecb53ea22d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Rulebook/1. Character Creation/Dorramere (Heritage).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Dorramere (Heritage)"
+            }
+          },
+          {
+            "id": "161f2bc543a2f607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultures/Philosophy/Religions/The Writ of Autumn/The Writ of Autumn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Writ of Autumn"
+            }
+          },
+          {
+            "id": "6bc47add2158b81d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cultures/Philosophy/Religions/The Church of Night/Church of Her Holy Word.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Church of Her Holy Word"
+            }
+          },
+          {
+            "id": "c5d9af4c150e9368",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Tools/Reference/World Map.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "World Map"
+            }
+          },
+          {
+            "id": "dbf85438f0d72039",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 0.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 0"
+            }
+          },
+          {
+            "id": "36d246a27961d9a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Tools/Reference/Skills/Skills (Index).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Skills (Index)"
+            }
+          },
+          {
+            "id": "caf55bb5ed4465bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshop/Martial v Magic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Martial v Magic"
+            }
+          },
+          {
+            "id": "43ac62d79d6d157d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Tools/Reference/Specializations/0. Specializations (Index).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0. Specializations (Index)"
+            }
+          },
+          {
+            "id": "bd9ef583e68203f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Tools/Reference/Specializations/Veil (Specialization).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Veil (Specialization)"
+            }
+          },
+          {
+            "id": "608a4c8f3ec5b626",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forces/Sources of Magic/Magic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Magic"
+            }
+          },
+          {
+            "id": "052d50a2a63724b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Rulebook/1. Character Creation/Character Creation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Character Creation"
+            }
+          },
+          {
+            "id": "4d201eaf7ae69af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshop/Leveling Up.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Leveling Up"
+            }
+          }
+        ],
+        "currentTab": 12
+      },
+      {
+        "id": "22f4935711b308ff",
+        "type": "tabs",
+        "dimension": 52.21238938053098,
+        "children": [
+          {
+            "id": "36bdf0f1538df5ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Characters/Rowan Tanoril.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rowan Tanoril"
+            }
+          },
+          {
+            "id": "6a8499cc6484a4d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Characters/Torsten Gunvaldrson.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Torsten Gunvaldrson"
+            }
+          },
+          {
+            "id": "c4941a1e7f1bab54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Characters/Tapeo 'Taps'.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tapeo 'Taps'"
+            }
+          },
+          {
+            "id": "590dda299ee25b8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Characters/Gill.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Gill"
+            }
+          },
+          {
+            "id": "2c87ee467252f4f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Player Characters/Izumei Noriath.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Izumei Noriath"
+            }
+          },
+          {
+            "id": "e7591cbfbe716fbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 1 Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session 1 Notes"
+            }
+          },
+          {
+            "id": "87aee609f0b03b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Workshop/Class Features.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Class Features"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "01a3d3ecc64fa399",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e88d719613b872d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50db872c9cda045e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9697c4a18a8bb0c1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "izum",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e2c8b758a26d84aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "538cdd4de1a9529c",
+    "type": "split",
+    "children": [
+      {
+        "id": "682c220fa0d2920d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cdab73b8dbd00f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Workshop/Human Brainstorming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Human Brainstorming"
+            }
+          },
+          {
+            "id": "bee93c9e4312ff01",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Workshop/Human Brainstorming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Human Brainstorming"
+            }
+          },
+          {
+            "id": "d50bc99d5daecd5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "efd42a574d12035e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Workshop/Human Brainstorming.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Human Brainstorming"
+            }
+          },
+          {
+            "id": "8b22dc66330c14b4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-projects:Open projects": false,
+      "templater-obsidian:Templater": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "e7591cbfbe716fbe",
+  "lastOpenFiles": [
+    "Mythsong",
+    "Characters/Player Characters/Rowan Tanoril.md",
+    "Workshop/Leveling Up.md",
+    "0. Rulebook/1. Character Creation/Character Creation.md",
+    "1. Tools/Reference/Specializations/0. Specializations (Index).md",
+    "Workshop/Martial v Magic.md",
+    "Forces/Sources of Magic/Magic.md",
+    "1. Tools/Reference/World Map.md",
+    "Workshop/Arcane Language.md",
+    "Cultures/Philosophy/Religions/The Church of Night/Church of Her Holy Word.md",
+    "Cultures/Philosophy/Religions/The Writ of Autumn/The Writ of Autumn.md",
+    "9. Admin/Templates/TEMPLATE - Scene.md",
+    "1. Tools/Reference/Deities (Index).md",
+    "1. Tools/Reference/Specializations/Veil (Specialization).md",
+    "0. Rulebook/1. Character Creation/Ancestry.md",
+    "1. Tools/Reference/Time/Timeline.canvas",
+    "1. Tools/Reference/Time/Era of Awakening/Era of Awakening.md",
+    "1. Tools/Reference/Time/Era of Awakening/Thaelryu Revolt.md",
+    "1. Tools/Reference/Backgrounds/0. Backgrounds (Index).md",
+    "1. Tools/Reference/Time/Era of Awakening/Awakening.md",
+    "1. Tools/Reference/Heritages",
+    "1. Tools/Reference/Backgrounds",
+    "Characters/Characters (Index).md",
+    "1. Tools/Reference/Specializations/Divine Domains (Specialization).md",
+    "1. Tools/Reference/Specializations/Spelltech (Specialization).md",
+    "1. Tools/Reference/Skills/Skills (Index).md",
+    "1. Tools/Reference/Skills",
+    "Session 0.md",
+    "0. Rulebook/1. Character Creation/Dorramere (Heritage).md",
+    "0. Rulebook/1. Character Creation/Background.md",
+    "1. Tools/Reference/Features",
+    "1. Tools/Reference/Specializations",
+    "1. Tools/Reference/Abilities",
+    "9. Admin/Assets/Locations/ph dorramere.png",
+    "Locations/Areas",
+    "Workshop/Location",
+    "Workshop",
+    "9. Admin/Assets/ph meiyun logo.jpg",
+    "9. Admin/Assets/Map.jpg",
+    "Locations/Establishments",
+    "9. Admin/Assets/Locations/PH tsun aelos.png",
+    "Creatures/Creature/Sapient/Playable/Jotnyr.jpg",
+    "tsun aelos 1.png"
+  ]
+}
